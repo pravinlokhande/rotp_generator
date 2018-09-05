@@ -3,4 +3,4 @@ You can add your account into google authenticater app using QR code and use thi
 
 Examples:
     # create new shared secret for hello@example.com
-    ruby rotp.rb hello@example.com
+    # ruby rotp.rb hello@example.com
